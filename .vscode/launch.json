@@ -6,6 +6,7 @@
       "request": "launch",
       "type": "dart",
       "flutterMode": "debug",
+      "program": "lib/main_dev.dart",
       "args": [
         "--flavor",
         "development",
@@ -17,6 +18,7 @@
       "request": "launch",
       "type": "dart",
       "flutterMode": "debug",
+      "program": "lib/main_stage.dart",
       "args": [
         "--flavor",
         "staging",
@@ -28,6 +30,7 @@
       "request": "launch",
       "type": "dart",
       "flutterMode": "debug",
+      "program": "lib/main_prod.dart",
       "args": [
         "--flavor",
         "production",
